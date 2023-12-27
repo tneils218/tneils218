@@ -3,11 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm Software Engineer
 -----------------
+Falling in luv with code
 
-* 🌍  I'm based in Việt Nam
-* ✉️  You can contact me at [TneilS](mailto:trantrungnhat2512@gmail.com)
-* 🚀  I'm currently working on [SOLO](http://github.com/tneils218)
-* 🧠  I'm learning .NET
+* 🌍  I'm based in Ha Noi, Viet Nam
+* 🖥️  See my portfolio at [TneilS](http://github.com/tneils218)
+* ✉️  You can contact me at [TneilS](mailto:trantrungnhat2512@gmail.com)
+* 🚀  I'm currently working on [SOLO](http://github.com/tneils218)
+* 🧠  I'm learning a new framework 
+* 🤝  I'm open to collaborating on interesting .NET projects 
 * ⚡  I'm trying to improve myself
 
 ### Skills
