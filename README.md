@@ -7,6 +7,8 @@ I'm Software Engineer
 * 🌍  I'm based in Việt Nam
 * ✉️  You can contact me at [TneilS](mailto:trantrungnhat2512@gmail.com)
 * 🚀  I'm currently working on [SOLO](http://github.com/tneils218)
+* 🧠  I'm learning .NET
+* ⚡  I'm trying to improve myself
 
 ### Skills
 
